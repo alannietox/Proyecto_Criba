@@ -1,0 +1,4 @@
+openai
+fpdf2
+customtkinter
+python-dotenv
